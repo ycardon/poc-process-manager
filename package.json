@@ -1,0 +1,14 @@
+{
+  "name": "permis-de-conduire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yann Cardon",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^8.3.3"
+  }
+}
